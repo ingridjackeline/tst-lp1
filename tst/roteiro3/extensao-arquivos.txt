@@ -1,0 +1,18 @@
+- Extensão no nome dos arquivos 
+
+A extensão é um sufixo colocado no final do nome do arquivo e indica o seu tipo de conteúdo. Ela se localiza logo após o ponto e é formada por três ou mais caracteres. 
+Exemplos de extensões e seus formatos de arquivo: 
+
+. txt - arquivo textual 
+. bin - arquivo binário 
+. yaml - arquivo textual
+. json - arquivo textual 
+. png - arquivo binário 
+. jpg - arquivo binário 
+. html - arquivo textual 
+. gif - arquivo binário
+. mp3 - arquivo binário 
+. log - arquivo textual 
+. cpp - arquivo textual 
+. gzip - arquivo binário 
+. xml - arquivo textual 

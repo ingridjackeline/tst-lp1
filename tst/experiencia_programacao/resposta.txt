@@ -1,0 +1,3 @@
+- Experiência em programação 
+
+Minha experiência em programação teve início no ano passado, durante o período 2020.3 (RAE). Comecei a cursar as disciplinas de Programação I e Laboratório de Programação I, onde pude aprender diversas coisas sobre Python e suas funcionalidades. No entanto, não pude levar o estudo adiante e avancei apenas até a Unidade 3 (Expressões Condicionais). Infelizmente, não tive nenhum outro contato com programação antes do meu ingresso na universidade.

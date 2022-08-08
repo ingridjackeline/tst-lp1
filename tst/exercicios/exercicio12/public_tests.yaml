@@ -1,0 +1,13 @@
+- input: |
+    200
+    8.00
+  output: |
+    Valor da passagem: R$ 1651.00
+
+    Pagamento:
+    1. À vista. R$ 1238.25
+    2. Em 6 parcelas. Total: R$ 1568.45
+       6 x R$ 261.41
+    3. Em 10 parcelas. Total: R$ 1651.00
+       10 x R$ 165.10
+

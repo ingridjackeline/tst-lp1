@@ -1,0 +1,19 @@
+- input: |
+    3x1 (c)
+    1x3 (f)
+    3x1 (c)
+    1x3 (f)
+    3x1 (c)
+    1x3 (f)
+    3x1 (c)
+    1x3 (f)
+    3x1 (c)
+    1x3 (f)
+  name: exemplo
+  output: |
+    10v, 0e, 0d
+    pontos: 30
+    saldo: 20 (30 pro, 10 contra)
+    pontos em casa: 15
+    pontos fora: 15
+

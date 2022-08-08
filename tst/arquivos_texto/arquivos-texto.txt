@@ -1,0 +1,12 @@
+- Arquivos de texto 
+
+Arquivos de texto são arquivos sequenciais (ou seja, que contêm sequências de bytes) onde os dados são armazenados como caracteres. Por serem compostos por linhas, cada linha é delimitada pelo caractere de quebra de linha, normalmente o '\n' (isso pode variar de sistema para sistema). 
+Esses arquivos também são facilmente entendidos pelos seres humanos, pois a presença de caracteres lhes permite interpretar o seu conteúdo e identificar problemas de forma precisa.
+Exemplos de aplicações que utilizam os arquivos de texto: linguagens de marcação (HTML), formatos de mensagens (JSON) e formatos de dados (txt).
+
+
+- Arquivos de texto vs Arquivos binários 
+
+Mesmo também sendo sequenciais, os arquivos binários apresentam diferenças significativas quando comparados aos textuais. Neles, os dados são armazenados em blocos de bytes, ou seja, não existe o conceito de linhas. As informações podem ser salvas exatamente como estão na memória. No entanto, torna-se complicado entender o seu conteúdo. 
+Uma vantagem é que os arquivos binários gastam menos espaço de armazenamento para a mesma quantidade de dados de um arquivo textual. Por isso, diversos protocolos de compressão de arquivos geram arquivos binários como resultado do processo.   
+Exemplos de aplicações que utilizam os arquivos binários: compressores de arquivos (gzip) e codificadores de imagem (PNG).

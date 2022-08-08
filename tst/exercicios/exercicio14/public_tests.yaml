@@ -1,0 +1,45 @@
+- input: |
+    9
+    ABC
+    13
+    ASA
+    13
+    Bahia
+    6
+    Campinense
+    17
+    Ceara
+    13
+    Fortaleza
+    14
+    Santa Cruz
+    13
+    Sport
+    15
+    Vitoria
+    14
+  output: |
+    Time(s) com melhor ataque (17 gol(s)):
+    Campinense
+
+    Média de gols marcados: 13.1
+
+- input: |
+    5
+    Flamengo
+    35
+    Cruzeiro
+    47
+    Fluminense
+    12
+    Vasco
+    15
+    Atletico-PR
+    47
+  output: |
+    Time(s) com melhor ataque (47 gol(s)):
+    Cruzeiro
+    Atletico-PR
+
+    Média de gols marcados: 31.2
+

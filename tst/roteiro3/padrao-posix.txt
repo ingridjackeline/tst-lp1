@@ -1,0 +1,13 @@
+- Padrão POSIX
+
+O POSIX (Portable Operating System Interface) é um padrão desenvolvido para estabelecer a compatibilidade entre os sistemas baseados no Unix. Outros sistemas não baseados no Unix também podem aderi-lo. Ele define, por exemplo, as variáveis que devem existir, os diretórios-padrão, os utilitários, entre outros aspectos importantes. 
+No que diz respeito à nomeação de arquivos e diretórios, o padrão POSIX define um conjunto específico de caracteres que deve ser utilizado para realizar tal processo, sendo composto por:
+
+. Letras maiúsculas de A até Z;
+. Letras minúsculas de a até z;
+. Números de 0 a 9;
+. Ponto;
+. Subtraço;
+. Hífen.
+
+Ao determinar como os programas devem ser escritos pelo programador, o POSIX garante que eles sejam portáveis, podendo funcionar em diferentes sistemas ou sendo recompilados sem alterações em seu código-fonte, o que minimiza o surgimento de problemas.

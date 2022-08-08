@@ -1,0 +1,12 @@
+- input: |
+    6
+    0.5
+  output: |
+    Velocidade: 12.0km/h. Corredor aspirante.
+
+- input: |
+    6.0
+    1.0
+  output: |
+    Velocidade: 6.0km/h. Corredor amador.
+

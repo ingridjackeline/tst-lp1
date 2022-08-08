@@ -1,0 +1,18 @@
+- input: |
+    280
+    10
+  name: exemplo
+  output: |
+    O container comporta 2 caixa(s) grande(s).
+    O container comporta 4 caixa(s) pequena(s).
+    Há 0kg de capacidade restante.
+
+- input: |
+    132
+    10
+  name: exemplo2
+  output: |
+    O container comporta 1 caixa(s) grande(s).
+    O container comporta 1 caixa(s) pequena(s).
+    Há 2kg de capacidade restante.
+

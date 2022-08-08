@@ -1,0 +1,15 @@
+- input: |
+    Wilkerson 100.00
+    1 50.00
+    2 20.00
+    3
+  output: |
+    Saldo de R$ 70.00 na conta de Wilkerson
+
+- input: |
+    Matheus 20.00
+    1 100.00
+    3
+  output: |
+    Saldo de R$ -80.00 na conta de Matheus
+

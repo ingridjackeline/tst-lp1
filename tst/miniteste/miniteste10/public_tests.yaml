@@ -1,0 +1,21 @@
+- input: |
+    498.0
+    498.5
+    499.1
+    499.6
+    499.9
+    500.3
+    500.6
+    500.5
+    501.0
+    499.9
+    499.6
+  output: |
+    t = 498.0 (média = 498.0)
+    t = 498.5 (média = 498.2)
+    t = 499.1 (média = 498.5)
+    t = 499.6 (média = 498.8)
+    t = 499.9 (média = 499.0)
+    t = 500.3 (média = 499.2)
+    ALERTA: limite de temperatura atingido!
+    número de medições: 6

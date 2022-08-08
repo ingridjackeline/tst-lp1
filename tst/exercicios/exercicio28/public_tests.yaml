@@ -1,0 +1,6 @@
+- input: |
+    80.0, 0.3, 0.2, 0.1
+    -
+  output: |
+    O valor de venda para este produto deve ser R$ 128.00
+

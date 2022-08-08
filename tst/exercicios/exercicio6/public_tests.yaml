@@ -1,0 +1,13 @@
+- input: |
+    10
+  name: exemplo
+  output: |
+    1256.6371
+    4188.7902
+
+- input: |
+    2.5
+  name: exemplo
+  output: |
+    78.5398
+    65.4498

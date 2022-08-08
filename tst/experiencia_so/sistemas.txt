@@ -1,0 +1,4 @@
+- Experiência em Sistemas Operacionais 
+
+Desde a infância, sempre utilizei o Windows 7 na minha máquina. Foi nele onde aprendi a fazer trabalhos da escola e a jogar na internet. 
+No entanto, quando entrei no Ensino Médio, comecei a fazer um curso técnico de Redes de Computadores e passei a ter contato com o Ubuntu e com outras versões do Windows. Através de algumas disciplinas, pude estudar mais a fundo sobre como os sistemas funcionam e pude aprender a formatar computadores, utilizar máquinas virtuais e, no caso do Ubuntu, a executar pequenos comandos no terminal. 

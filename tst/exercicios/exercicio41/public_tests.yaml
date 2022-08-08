@@ -1,0 +1,14 @@
+- input: |
+    alo fraco
+    alo forte           
+    ***
+  output: |
+    ((alo))
+    ((410))
+
+- input: |
+    antonio forte
+    ***
+  output: |
+    ((4n70n10))
+

@@ -1,0 +1,16 @@
+- input: |
+    100
+    9
+    4
+  output: |
+    Clientes no atacado = 11kg cada.
+    Clientes no varejo = 0.25kg cada.
+
+- input: |
+    216
+    7
+    5
+  output: |
+    Clientes no atacado = 30kg cada.
+    Clientes no varejo = 1.20kg cada.
+

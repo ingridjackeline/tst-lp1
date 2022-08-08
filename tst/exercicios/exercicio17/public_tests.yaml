@@ -1,0 +1,26 @@
+- input: |
+    4
+    123
+    0298
+    1429
+    999999
+  name: exemplo
+  output: |
+    ---
+    2 aceito(s)
+    123
+    999999
+    2 descartado(s)
+    0298
+    1429
+
+- input: |
+    1
+    9999
+  name: exemplo2
+  output: |
+    ---
+    1 aceito(s)
+    9999
+    0 descartado(s)
+

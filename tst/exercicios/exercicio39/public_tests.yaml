@@ -1,0 +1,10 @@
+- input: |
+    orfeu
+  output: |
+    sim
+
+- input: |
+    brasil
+  output: |
+    nao
+

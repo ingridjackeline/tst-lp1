@@ -1,0 +1,19 @@
+- input: |
+    abrantes
+    123987695
+    dalton
+    98765437
+    wilkerson
+    98654300
+  output: |
+    SPLab - Espaço utilizado pelos usuários
+    ---------------------------------------------
+    Nr., Usuário, Espaço Utilizado
+
+    1, abrantes, 118.24 MB
+    2, dalton, 94.19 MB
+    3, wilkerson, 94.08 MB
+
+    Espaço total ocupado: 306.52 MB
+    Espaço médio ocupado: 102.17 MB
+

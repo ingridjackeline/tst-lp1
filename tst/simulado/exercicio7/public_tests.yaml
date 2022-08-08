@@ -1,0 +1,13 @@
+- input: |
+    triângulo
+    3.0
+    8.0
+  output: |
+    Área do triângulo: 12.00 (cm2)
+
+- input: |
+    círculo
+    2
+  output: |
+    Área do círculo: 12.57 (cm2)
+
